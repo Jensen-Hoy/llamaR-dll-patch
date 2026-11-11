@@ -1,1 +1,1 @@
-基于Zabis13/llamaR项目的一些变体。
+基于Zabis13/llamaR/ggmlR项目的一些变体。
